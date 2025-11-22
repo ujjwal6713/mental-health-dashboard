@@ -1,0 +1,99 @@
+campus,year,program,housing,status,mentalHealth,Q01,Q02,Q03,Q04,Q05,Q06,Q07,Q08,Q09,Q10,Q11,Q12,Q13,Q14,Q15,Q16,Q17,Q18,Q19,Q20,Q21,Total_Score,score_percent,literacy_level,mentalHealth_num
+Sault Ste. Marie,First Year,Computer Science,Off-campus,International,No,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,19,90.47619047619048,0,0
+Brampton,Second Year,Social Work,On-campus,Domestic,Yes,1,0,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,17,80.95238095238095,0,1
+Timmins,Fifth Year+,Computer Science,Off-campus,International,No,0,0,1,1,1,1,0,1,1,1,0,0,0,0,1,1,1,1,1,1,0,13,61.904761904761905,0,0
+Timmins,First Year,Business Administration,Off-campus,International,No,0,1,0,0,0,0,1,1,1,0,1,0,0,1,1,1,1,0,1,1,0,11,52.38095238095239,0,0
+Brampton,Third Year,Computer Science,Off-campus,International,No,1,1,0,1,0,1,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,16,76.19047619047619,0,0
+Sault Ste. Marie,Fourth Year,Business Administration,On-campus,International,Yes,1,0,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1,0,1,1,0,15,71.42857142857143,0,1
+Sault Ste. Marie,First Year,Computer Science,Off-campus,International,No,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,5,23.809523809523807,0,0
+Sault Ste. Marie,First Year,Computer Science,On-campus,International,No,1,0,1,1,1,1,1,1,1,1,1,0,1,0,0,0,0,0,1,1,1,14,66.66666666666666,0,0
+Sault Ste. Marie,First Year,Computer Science,Off-campus,International,No,1,0,0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,17,80.95238095238095,0,0
+Sault Ste. Marie,First Year,Computer Science,Off-campus,International,No,1,0,1,1,1,1,1,1,1,1,0,1,1,1,0,0,1,0,0,1,1,15,71.42857142857143,0,0
+Sault Ste. Marie,First Year,Computer Science,Off-campus,International,No,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,17,80.95238095238095,0,0
+Sault Ste. Marie,First Year,Computer Science,Off-campus,International,No,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,20,95.23809523809523,0,0
+Sault Ste. Marie,Third Year,Anishinaabe Studies,On-campus,Domestic,No,1,1,0,1,1,1,0,1,0,1,0,0,0,1,0,0,0,0,1,1,1,11,52.38095238095239,0,0
+Brampton,Third Year,Business Administration,Off-campus,International,No,1,0,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,18,85.71428571428571,0,0
+Sault Ste. Marie,First Year,Environmental Science,Off-campus,International,Yes,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,18,85.71428571428571,0,1
+Brampton,Fourth Year,Computer Science,Off-campus,International,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,0
+Brampton,First Year,English,On-campus,International,No,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,6,28.57142857142857,0,0
+Brampton,Fourth Year,Computer Science,On-campus,International,No,1,0,0,0,0,1,0,1,0,1,0,1,0,1,0,1,0,0,0,0,1,8,38.095238095238095,0,0
+Brampton,Third Year,Computer Science,Off-campus,International,No,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,0,17,80.95238095238095,0,0
+Brampton,Second Year,Computer Science,Off-campus,International,Yes,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,19,90.47619047619048,0,1
+Brampton,Second Year,Computer Science,Off-campus,International,Yes,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,19,90.47619047619048,0,1
+Brampton,Second Year,Computer Science,Off-campus,International,No,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1,0,1,0,1,1,0,15,71.42857142857143,0,0
+Sault Ste. Marie,Second Year,Other,Off-campus,International,No,1,0,0,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1,17,80.95238095238095,0,0
+Sault Ste. Marie,First Year,Environmental Science,On-campus,Domestic,Yes,0,0,1,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,6,28.57142857142857,0,1
+Sault Ste. Marie,First Year,Computer Science,Off-campus,Domestic,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,0
+Sault Ste. Marie,Fourth Year,Social Work,Off-campus,Domestic,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,0
+Sault Ste. Marie,First Year,Law & Justice,Off-campus,Domestic,Yes,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,20,95.23809523809523,0,1
+Sault Ste. Marie,First Year,Law & Justice,Off-campus,International,No,1,1,0,1,1,1,1,1,1,1,1,0,1,0,0,1,1,0,0,1,0,14,66.66666666666666,0,0
+Sault Ste. Marie,Third Year,Biology,Off-campus,Domestic,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,0
+Sault Ste. Marie,Fourth Year,Psychology,On-campus,International,Yes,1,0,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,18,85.71428571428571,0,1
+Sault Ste. Marie,Third Year,Business Administration,Off-campus,International,No,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,1,1,6,28.57142857142857,0,0
+Sault Ste. Marie,Second Year,Biology,Off-campus,International,No,1,0,1,1,1,1,0,1,1,0,0,1,0,0,0,1,0,0,0,1,0,10,47.61904761904761,0,0
+Sault Ste. Marie,Third Year,Biology,On-campus,International,No,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,20,95.23809523809523,0,0
+Brampton,Fourth Year,Computer Science,Off-campus,International,No,1,1,1,0,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,18,85.71428571428571,0,0
+Sault Ste. Marie,Third Year,Computer Science,Off-campus,International,Yes,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,1,1,0,17,80.95238095238095,0,1
+Sault Ste. Marie,Fourth Year,Business Administration,Off-campus,Domestic,No,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,18,85.71428571428571,0,0
+Brampton,Third Year,Computer Science,Off-campus,International,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,20,95.23809523809523,0,0
+Sault Ste. Marie,First Year,Other,Off-campus,International,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,0
+Brampton,Third Year,Computer Science,Off-campus,International,No,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,17,80.95238095238095,0,0
+Brampton,Third Year,Computer Science,Off-campus,International,No,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,20,95.23809523809523,0,0
+Sault Ste. Marie,Fourth Year,Psychology,On-campus,Domestic,Yes,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,1
+Sault Ste. Marie,Fourth Year,Biology,Off-campus,International,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,0
+Sault Ste. Marie,Third Year,Psychology,Off-campus,International,Yes,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,1
+Brampton,Fourth Year,Computer Science,Off-campus,International,Yes,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,20,95.23809523809523,0,1
+Brampton,Third Year,Psychology,Off-campus,International,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,0
+Brampton,Second Year,Psychology,On-campus,International,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,0
+Brampton,Second Year,Other,Off-campus,International,Yes,1,0,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,17,80.95238095238095,0,1
+Brampton,Second Year,Psychology,Off-campus,International,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,0
+Brampton,First Year,Computer Science,On-campus,International,No,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,20,95.23809523809523,0,0
+Brampton,Second Year,Business Administration,On-campus,International,No,1,0,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,80.95238095238095,0,0
+Sault Ste. Marie,Third Year,Social Work,On-campus,Domestic,Yes,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,1
+Brampton,Second Year,Other,Off-campus,International,Yes,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,18,85.71428571428571,0,1
+Brampton,Second Year,Computer Science,Off-campus,International,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,20,95.23809523809523,0,0
+Brampton,Second Year,Computer Science,Off-campus,International,No,0,0,0,1,1,1,1,1,1,0,0,0,0,1,0,1,1,1,1,1,1,13,61.904761904761905,0,0
+Brampton,First Year,Psychology,On-campus,Domestic,No,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,20,95.23809523809523,0,0
+Sault Ste. Marie,Third Year,Biology,Off-campus,International,Yes,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,20,95.23809523809523,0,1
+Brampton,Fifth Year+,Computer Science,Off-campus,Domestic,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,0
+Brampton,Third Year,Computer Science,On-campus,Domestic,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,20,95.23809523809523,0,0
+Sault Ste. Marie,Second Year,Other,On-campus,International,No,1,1,0,1,1,1,0,1,1,0,1,1,0,1,1,1,1,1,1,0,1,16,76.19047619047619,0,0
+Sault Ste. Marie,Fourth Year,Accounting,On-campus,International,No,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,20,95.23809523809523,0,0
+Sault Ste. Marie,Fourth Year,Social Work,Off-campus,Domestic,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,0
+Sault Ste. Marie,Third Year,Computer Science,Off-campus,International,No,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,17,80.95238095238095,0,0
+Sault Ste. Marie,Third Year,Community Economic and Social Development,Off-campus,International,Yes,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,20,95.23809523809523,0,1
+Sault Ste. Marie,Second Year,Computer Science,On-campus,International,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,0
+Timmins,Second Year,Social Work,Off-campus,Domestic,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,0
+Sault Ste. Marie,Fifth Year+,Computer Science,Off-campus,International,No,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,19,90.47619047619048,0,0
+Sault Ste. Marie,Second Year,Law & Justice,Off-campus,Domestic,No,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,20,95.23809523809523,0,0
+Brampton,Second Year,Computer Science,Off-campus,International,No,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,0,1,1,1,17,80.95238095238095,0,0
+Brampton,Second Year,Business Administration,Off-campus,International,Yes,1,0,0,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,17,80.95238095238095,0,1
+Sault Ste. Marie,First Year,Social Work,Off-campus,Domestic,No,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,19,90.47619047619048,0,0
+Brampton,Third Year,Social Work,Off-campus,Domestic,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,0
+Brampton,Second Year,Other,On-campus,International,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,0
+Brampton,First Year,Psychology,Off-campus,Domestic,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,0
+Brampton,First Year,Computer Science,On-campus,International,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,20,95.23809523809523,0,0
+Brampton,Second Year,Social Work,Off-campus,Domestic,No,1,0,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,18,85.71428571428571,0,0
+Brampton,First Year,Computer Science,Off-campus,International,No,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,20,95.23809523809523,0,0
+Sault Ste. Marie,Third Year,Sociology,Off-campus,Domestic,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,0
+Sault Ste. Marie,First Year,Psychology,Off-campus,Domestic,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,0
+Sault Ste. Marie,Third Year,Psychology,On-campus,International,No,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,20,95.23809523809523,0,0
+Sault Ste. Marie,Third Year,Social Work,Off-campus,Domestic,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,0
+Sault Ste. Marie,First Year,Computer Science,Off-campus,International,No,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,20,95.23809523809523,0,0
+Sault Ste. Marie,Third Year,Biology,Off-campus,International,No,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,19,90.47619047619048,0,0
+Sault Ste. Marie,Second Year,Accounting,Off-campus,International,Yes,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,19,90.47619047619048,0,1
+Brampton,Fourth Year,Computer Science,Off-campus,International,Yes,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,1
+Brampton,Second Year,Computer Science,Off-campus,International,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,0
+Sault Ste. Marie,First Year,Computer Science,On-campus,International,No,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,19,90.47619047619048,0,0
+Sault Ste. Marie,First Year,Environmental Science,Off-campus,Domestic,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,0
+Brampton,Second Year,Business Administration,On-campus,International,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,0
+Sault Ste. Marie,Second Year,Social Work,Off-campus,Domestic,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,0
+Brampton,Fourth Year,Business Administration,Off-campus,International,Yes,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,20,95.23809523809523,0,1
+Sault Ste. Marie,Second Year,English,Off-campus,Domestic,No,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,20,95.23809523809523,0,0
+Sault Ste. Marie,Fourth Year,Social Work,Off-campus,Domestic,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,0
+Sault Ste. Marie,First Year,Computer Science,On-campus,International,No,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,4,19.047619047619047,0,0
+Timmins,Third Year,Community Economic and Social Development,Off-campus,Domestic,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,20,95.23809523809523,0,0
+Brampton,Fourth Year,Computer Science,Off-campus,Domestic,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,100.0,1,0
+Brampton,Second Year,Computer Science,Off-campus,International,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,20,95.23809523809523,0,0
+Sault Ste. Marie,Second Year,Business Administration,On-campus,International,No,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,19,90.47619047619048,0,0
+Brampton,Third Year,Computer Science,Off-campus,International,No,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,19,90.47619047619048,0,0

@@ -1,0 +1,29 @@
+subgroup,average_score,student_count,demographic_category
+Brampton,88.57,45,campus
+Sault Ste. Marie,85.01,54,campus
+Timmins,77.38,4,campus
+Fifth Year+,86.9,4,year
+First Year,78.57,26,year
+Fourth Year,91.32,17,year
+Second Year,88.17,31,year
+Third Year,88.38,25,year
+Accounting,92.86,2,program
+Anishinaabe Studies,52.38,1,program
+Biology,88.1,6,program
+Business Administration,77.92,11,program
+Community Economic and Social Development,95.24,2,program
+Computer Science,84.01,42,program
+English,61.9,2,program
+Environmental Science,71.43,3,program
+Law & Justice,85.71,3,program
+Other,87.3,6,program
+Psychology,97.44,13,program
+Social Work,96.1,11,program
+Sociology,100.0,1,program
+Off-campus,88.44,77,housing
+On-campus,79.85,26,housing
+Domestic,93.02,30,status
+International,83.5,73,status
+No,85.53,77,mentalHealth
+Unsure,94.29,5,mentalHealth
+Yes,87.07,21,mentalHealth

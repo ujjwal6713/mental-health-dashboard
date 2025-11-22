@@ -1,0 +1,86 @@
+[
+    {
+        "QID":"Q01",
+        "Questions":"What does mental health include? (select the best response)"
+    },
+    {
+        "QID":"Q02",
+        "Questions":"2. Which of these would not indicate that someone should consider seeking mental health support? (select the best response)"
+    },
+    {
+        "QID":"Q03",
+        "Questions":"Good mental health includes (select the best response):"
+    },
+    {
+        "QID":"Q04",
+        "Questions":"What is resilience? (select the best response)"
+    },
+    {
+        "QID":"Q05",
+        "Questions":"True or False: Mental health services are only for people with severe or diagnosed mental health conditions. "
+    },
+    {
+        "QID":"Q06",
+        "Questions":"True or False: Most students will experience stress or challenges during university that may benefit from wellness support and resources."
+    },
+    {
+        "QID":"Q07",
+        "Questions":"Which statement about mental health is true? (select the best response)"
+    },
+    {
+        "QID":"Q08",
+        "Questions":"True or False: It's normal to experience some stress during your studies."
+    },
+    {
+        "QID":"Q09",
+        "Questions":"If a friend shares they're struggling mentally, the best immediate response is (select the best response):"
+    },
+    {
+        "QID":"Q10",
+        "Questions":"At Algoma University, how can you initially access mental health services quickly? (select the best response)"
+    },
+    {
+        "QID":"Q11",
+        "Questions":"Which service is typically NOT part of the approach to mental health on campus? (select the best response)"
+    },
+    {
+        "QID":"Q12",
+        "Questions":"Which service is designed for immediate mental health crises? (select the best response)"
+    },
+    {
+        "QID":"Q13",
+        "Questions":"If you feel overwhelmed late at night, which campus resource might be most helpful immediately? (select the best response)"
+    },
+    {
+        "QID":"Q14",
+        "Questions":"Early intervention in mental health means (select the best response):"
+    },
+    {
+        "QID":"Q15",
+        "Questions":"True or False: Most campus mental health services require formal doctor referrals."
+    },
+    {
+        "QID":"Q16",
+        "Questions":"If your mental health issue isn’t improving with self-help, your next step should typically be (select the best response):"
+    },
+    {
+        "QID":"Q17",
+        "Questions":"What is the primary goal of student wellness services on campus? (select the best response)"
+    },
+    {
+        "QID":"Q18",
+        "Questions":"Which of these does NOT help protect your mental health? (select the best response)"
+    },
+    {
+        "QID":"Q19",
+        "Questions":"Which practice can help maintain your mental wellness at university? (select the best response)"
+    },
+    {
+        "QID":"Q20",
+        "Questions":"True or False: All services provided through our campus wellness team are 100% confidential (meaning anything you say will remain private and will not be shared). "
+    },
+    {
+        "QID":"Q21",
+        "Questions":"Healthy coping strategies for stress do NOT usually include (select the best response):"
+    }
+]

@@ -9,21 +9,21 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@sentry/nextjs": "^8.0.0",
-    "@tremor/react": "^3.18.7",
-    "@vercel/analytics": "^1.3.0",
-    "next": "^15.0.3",
-    "next-auth": "^5.0.0-beta.19",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
-  },
-  "devDependencies": {
+  "@sentry/nextjs": "7.97.0",
+  "@tremor/react": "3.18.7",
+  "@vercel/analytics": "1.2.2",
+  "next": "14.2.13",
+  "next-auth": "5.0.0-beta.19",
+  "react": "18.2.0",
+  "react-dom": "18.2.0"
+},
+ "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "eslint": "^9",
-    "eslint-config-next": "16.0.3",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "14.0.0",
     "tailwindcss": "^4",
     "typescript": "^5"
   }

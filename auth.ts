@@ -1,7 +1,7 @@
 import NextAuth from 'next-auth';
 import { authConfig } from './auth.config';
 
-export const { auth, signIn, signOut, handlers } = NextAuth({
+const nextAuth = NextAuth({
   ...authConfig,
   session: {
     strategy: 'jwt',
@@ -9,3 +9,6 @@ export const { auth, signIn, signOut, handlers } = NextAuth({
   },
   secret: process.env.NEXTAUTH_SECRET,
 });
+
+export const { auth, signIn, signOut, handlers } = nextAuth;
+export default nextAuth;

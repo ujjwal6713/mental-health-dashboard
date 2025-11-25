@@ -6,8 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "postinstall": "echo 'Tailwind version:' && npm list tailwindcss"
   },
+  
   "dependencies": {
     "@sentry/nextjs": "7.97.0",
     "@tremor/react": "3.18.7",
